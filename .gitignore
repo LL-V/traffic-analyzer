@@ -1,0 +1,9 @@
+﻿.omc/
+__pycache__/
+*.pyc
+*.exe
+*.o
+*.obj
+_fixture.pcap
+_backend_*.py
+*.log
